@@ -207,7 +207,7 @@ header .hiden{
 }
 
 .slide-img{
-    width: 70%;
+    width: 100%;
 }
 /* section le concept */
 
@@ -245,7 +245,7 @@ header .hiden{
 
 .concept img {
     width: 100%;
-    /* margin-top: -10px; */
+    margin-top: -10px;
 }
 
 .tarif .heading h3{
